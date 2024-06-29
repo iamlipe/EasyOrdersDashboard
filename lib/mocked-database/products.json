@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Skoll 600ml",
+    "price": 12,
+    "quantity_sold": 100,
+    "quantitiy_stock": 900,
+    "category_id": 1,
+    "supplier_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Heinekein 600ml",
+    "price": 18,
+    "quantity_sold": 40,
+    "quantitiy_stock": 300,
+    "category_id": 1,
+    "supplier_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Antartica Original 600ml",
+    "price": 16,
+    "quantity_sold": 200,
+    "quantitiy_stock": 1200,
+    "category_id": 1,
+    "supplier_id": 1
+  }
+]

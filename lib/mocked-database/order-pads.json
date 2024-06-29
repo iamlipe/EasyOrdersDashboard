@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Green",
+    "phone": "(11) 55555-5555",
+    "opening_date": "2024-06-25T15:30:00",
+    "closing_date": null,
+    "business_id": 1
+  },
+  {
+    "id": 2,
+    "name": "James Orange",
+    "phone": "(11) 44444-4444",
+    "opening_date": "2024-06-25T15:30:00",
+    "closing_date": "2024-06-25T17:00:00",
+    "business_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Michael Golden",
+    "phone": "(11) 33333-3333",
+    "opening_date": "2024-06-25T15:30:00",
+    "closing_date": null,
+    "business_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Barbara Pink",
+    "phone": "(11) 22222-2222",
+    "opening_date": "2024-06-25T15:30:00",
+    "closing_date": null,
+    "business_id": 1
+  }
+]

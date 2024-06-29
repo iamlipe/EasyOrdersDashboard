@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "quantity": 2,
+    "total": 20,
+    "date": "2024-06-25T15:30:00",
+    "product_id": 1,
+    "business_id": 1,
+    "employeer_id": 1
+  },
+  {
+    "id": 2,
+    "quantity": 1,
+    "total": 16,
+    "date": "2024-06-25T15:30:00",
+    "product_id": 2,
+    "business_id": 1,
+    "employeer_id": 1
+  },
+  {
+    "id": 3,
+    "quantity": 3,
+    "total": 30,
+    "date": "2024-06-25T15:30:00",
+    "product_id": 1,
+    "business_id": 1,
+    "employeer_id": 2
+  },
+  {
+    "id": 4,
+    "quantity": 1,
+    "total": 16,
+    "date": "2024-06-25T15:30:00",
+    "product_id": 2,
+    "business_id": 2,
+    "employeer_id": 3
+  }
+]

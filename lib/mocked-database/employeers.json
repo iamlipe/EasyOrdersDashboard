@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Maria Brown",
+    "email": "maria@email.com",
+    "phone": "11999999999",
+    "business_id": 1,
+    "role_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Jhoe Doe",
+    "email": "jhoe@email.com",
+    "phone": "11888888888",
+    "business_id": 1,
+    "role_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Bob Gray",
+    "email": "bob@email.com",
+    "phone": "11777777777",
+    "business_id": 2,
+    "role_id": 1
+  }
+]

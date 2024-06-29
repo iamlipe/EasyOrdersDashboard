@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Hobby",
+    "description": "Start your next side project",
+    "benefits": [
+      "Improved productivity",
+      "Enhanced performance",
+      "Cost savings",
+      "Improved communication",
+      "Enhanced collaboration"
+    ],
+    "amount": 0,
+    "priceId": "price_1PSsqwKwJhAoM1n9XBrUFgWT"
+  },
+  {
+    "title": "Pro",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "benefits": [
+      "Improved productivity",
+      "Enhanced performance",
+      "Cost savings",
+      "Improved communication",
+      "Enhanced collaboration"
+    ],
+    "amount": 29.9,
+    "priceId": "price_1PSsrcKwJhAoM1n94Lj7IvA4"
+  }
+]
